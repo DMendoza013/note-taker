@@ -8,6 +8,10 @@ This application is a Note Taker. It is used to write and save notes so that it 
 
 A link to the website: https://dmendoza013.github.io/note-taker/
 
+## Screenshot 
+
+![screenshot](./public/assets/images/note_taker.png)
+
 ## Credits
 
 Starter Code was used for this project. Here is a link to it: https://github.com/coding-boot-camp/miniature-eureka
